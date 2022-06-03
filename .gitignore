@@ -3,3 +3,5 @@ yarn-error.log
 public/bundle.js.map
 public/styles.css
 public/styles.css.map
+public/bundle.js
+public/bundle.js.LICENSE.txt
